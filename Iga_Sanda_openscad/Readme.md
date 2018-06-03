@@ -1,12 +1,16 @@
 OpenSCAD projects
+
 Roboti inteligenti
+
 Nume:  Iga (Voronianu) Sanda  Florina
+
 Email: vorosanda@gmail.com
+
 Master PABD anul I 2018
 
 Cu  aplicatia  OpenScad  am proiectat:
 -  un  copac  cu  mai  multe  ramuri  si frunze  
-
+# imagi
 ![alt text](https://github.com/vorosanda/OpenSCAD-projects/blob/master/Iga_Sanda_openscad/Captura_copac.JPG"Printscreen")
 
 -  o  racheta si numele meu
