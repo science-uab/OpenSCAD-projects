@@ -5,5 +5,5 @@ Open sketch "object_rulment" and hit RUN
 
 Author: Radu Goada
 
-# Printscreen
-<img src="ScreenShot.png" />
+### Screenshot
+![screenshot](ScreenShot.png?raw=true "Bearing")
